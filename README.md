@@ -19,8 +19,7 @@ This project processes and analyzes blockchain data using machine learning techn
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/blockchain-ml-analysis.git
-cd blockchain-ml-
+1. Clone the repository
 2. Install the required packages: pip install -r requirements.txt
 3. Set up your AWS credentials:
 - Create an IAM user with appropriate permissions
